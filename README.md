@@ -7,7 +7,7 @@
 
 <p align="center">
 <h1 align="center"/>3x-ui</h1>
-<h6 align="center">3x-ui Panel SSl Cert<h6>
+<h6 align="center">3x-ui Panel<h6>
 </p>
 
 
