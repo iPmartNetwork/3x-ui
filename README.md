@@ -28,7 +28,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/iPmartNetwork/3x-ui/main/insta
 # SSL
 
 ```
-apt-get install certbot -y
+apt install certbot -y
 
 ```
 
